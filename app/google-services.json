@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "58316210747",
+    "firebase_url": "https://weddinc-90e96.firebaseio.com",
+    "project_id": "weddinc-90e96",
+    "storage_bucket": "weddinc-90e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58316210747:android:87f40755f205e0a5ce521e",
+        "android_client_info": {
+          "package_name": "com.firyal.facebookbisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58316210747-3domr1vm7uli3c81jviceq8k4ra7aack.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firyal.facebookbisa",
+            "certificate_hash": "615b0cae096b82593aa58541a6c7871bd6fb0d79"
+          }
+        },
+        {
+          "client_id": "58316210747-e0nofc4a7i82aad6758vad7rua7duh4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6D-9dTxW0mR136LszGxCqzxebfM6o6cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58316210747-e0nofc4a7i82aad6758vad7rua7duh4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58316210747:android:bc546e1cf6cb34f4ce521e",
+        "android_client_info": {
+          "package_name": "com.project.weddinc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58316210747-kv6v6hroc6iorqbe2vljucbkdp6puuef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.weddinc",
+            "certificate_hash": "1feb7b6e938c69a1927ab0f7a73e890e822319cb"
+          }
+        },
+        {
+          "client_id": "58316210747-r9t4ld3n34vp01buk055acfl5mv6ff0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.weddinc",
+            "certificate_hash": "615b0cae096b82593aa58541a6c7871bd6fb0d79"
+          }
+        },
+        {
+          "client_id": "58316210747-e0nofc4a7i82aad6758vad7rua7duh4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6D-9dTxW0mR136LszGxCqzxebfM6o6cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58316210747-e0nofc4a7i82aad6758vad7rua7duh4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
